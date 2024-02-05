@@ -32,7 +32,7 @@ This repository contains a comprehensive collection of questions covering a wide
 Clone this repository to your local machine to access the entire set of DSA questions. Each topic is organized in a separate folder, and within each folder, you will find a variety of problems categorized by difficulty level.
 
 ```bash
-git clone https://github.com/your-username/450DSASheet.git
+git clone https://github.com/iamabhish23/450DSASheet.git
 cd 450DSASheet
 ```
 
